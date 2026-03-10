@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Misery (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-10T14:40:18.062236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Misery - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Misery_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One With Misery (remastered 2007)",
+      "artist": "Sentenced",
+      "has_synced": true,
+      "path": "select/02_One_With_Misery_(remastered_2007)_Sentenced.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rotting Ways to Misery (remastered 2008)",
+      "artist": "Sentenced",
+      "has_synced": true,
+      "path": "select/03_Rotting_Ways_to_Misery_(remastered_2008)_Sentenced.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/04_My_Friend_of_Misery_(Remastered)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered 2021)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/05_My_Friend_of_Misery_(Remastered_2021)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Friend of Misery - Remastered 2021",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/06_My_Friend_of_Misery_-_Remastered_2021_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered 2021)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/07_My_Friend_of_Misery_(Remastered_2021)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Misery - Remastered",
+      "artist": "Blutengel",
+      "has_synced": false,
+      "path": "select/08_Misery_-_Remastered_Blutengel.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Misery (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Misery_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Friend of Misery  (Remastered)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/10_My_Friend_of_Misery_(Remastered)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered 2021)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/11_My_Friend_of_Misery_(Remastered_2021)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/12_My_Friend_of_Misery_(Remastered)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rise From Misery (Remastered)",
+      "artist": "Numeron",
+      "has_synced": false,
+      "path": "select/13_Rise_From_Misery_(Remastered)_Numeron.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Misery (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Misery_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chains of Misery (Remastered)",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/15_Chains_of_Misery_(Remastered)_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Midnight Moon Misery (remastered)",
+      "artist": "Project Pitchfork",
+      "has_synced": false,
+      "path": "select/16_Midnight_Moon_Misery_(remastered)_Project_Pitchfork.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Friend of Misery (Remastered 2021)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/17_My_Friend_of_Misery_(Remastered_2021)_Metallica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MISERY",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_MISERY_The_Beatles.txt"
+    }
+  ]
+}
